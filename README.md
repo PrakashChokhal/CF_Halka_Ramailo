@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 4 |
 
 ---
 
@@ -14,6 +14,7 @@
 
 - [dfs and similar](#dfs-and-similar) (1)
 - [graphs](#graphs) (1)
+- [greedy](#greedy) (1)
 - [trees](#trees) (1)
 
 ---
@@ -29,6 +30,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1328E | [Tree Queries](https://codeforces.com/contest/1328/problem/E) | 1900 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/1328/E%20-%20Tree%20Queries/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### trees
 
