@@ -6,20 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 6 |
+| 4 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (1)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [trees](#trees) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 
 ### dfs and similar
 
@@ -49,6 +56,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 
 ### trees
