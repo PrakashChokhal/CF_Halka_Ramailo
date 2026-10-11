@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 6 |
 
 ---
 
@@ -15,6 +15,8 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (1)
+- [math](#math) (1)
+- [number theory](#number-theory) (1)
 - [trees](#trees) (1)
 
 ---
@@ -36,6 +38,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/PrakashChokhal/CF_Halka_Ramailo/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 
 ### trees
 
